@@ -1,7 +1,11 @@
 body{
-    background-image: url(imagenes/joshua-kantarges-N_7Kb4hpaoU-unsplash.jpg);
-    background-size: 100%;
+    margin: 0%;
+    margin-top: -20px;
+    
     font-family: 'Bebas Neue', cursive;
+}
+header  {
+    background-color: black;  
 }
 
 header ul{
@@ -18,11 +22,22 @@ header li{
 }
 header h1{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
-main{
+.canchabasket {
+    margin-top: -72px;
+    background-image: url(imagenes/baasket/joshua-kantarges-N_7Kb4hpaoU-unsplash.jpg);
+    background-size: 100%;
     color: white;
     font-size: 20px;
+}
+.segundaseccion{
+    
+    background-image: url(imagenes/baasket/markus-spiske-BfphcCvhl6E-unsplash.jpg);
+    background-size: 100%;
+    font-size: 30px;
+    color: bisque;
+    margin-top: -40px;
 }
 h1 {
     color: white;
